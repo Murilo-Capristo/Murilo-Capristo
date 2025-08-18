@@ -18,7 +18,7 @@
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black&style=for-the-badge)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?logo=typescript&logoColor=white&style=for-the-badge)
 ![C++](https://img.shields.io/badge/-C++-00599C?logo=cplusplus&logoColor=white&style=for-the-badge)
-![C#](https://img.shields.io/badge/-dotnet%23-239120?logo=dotnetp&logoColor=white&style=for-the-badge)
+![C#](https://img.shields.io/badge/-dotnet%23-239120?logo=dotnet&logoColor=white&style=for-the-badge)
 ![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=black&style=for-the-badge)
 ![SQL](https://img.shields.io/badge/-mysql%20SQL-F80000?logo=mysql&logoColor=white&style=for-the-badge)
 
