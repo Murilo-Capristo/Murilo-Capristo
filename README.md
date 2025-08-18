@@ -14,13 +14,13 @@
 ![Azure DevOps](https://img.shields.io/badge/-Azure%20DevOps-0078D7?logo=artixlinux&logoColor=white&style=for-the-badge)
 ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white&style=for-the-badge)
 ![HTML](https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=white&style=for-the-badge)
-![CSS](https://img.shields.io/badge/-CSS3-1572B6?logo=css3&logoColor=white&style=for-the-badge)
+![CSS](https://img.shields.io/badge/-CSS-1572B6?logo=css3&logoColor=white&style=for-the-badge)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black&style=for-the-badge)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?logo=typescript&logoColor=white&style=for-the-badge)
 ![C++](https://img.shields.io/badge/-C++-00599C?logo=cplusplus&logoColor=white&style=for-the-badge)
-![C#](https://img.shields.io/badge/-C%23-239120?logo=csharp&logoColor=white&style=for-the-badge)
+![C#](https://img.shields.io/badge/-dotnet%23-239120?logo=dotnetp&logoColor=white&style=for-the-badge)
 ![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=black&style=for-the-badge)
-![Oracle SQL](https://img.shields.io/badge/-Oracle%20SQL-F80000?logo=oracle&logoColor=white&style=for-the-badge)
+![SQL](https://img.shields.io/badge/-mysql%20SQL-F80000?logo=mysql&logoColor=white&style=for-the-badge)
 
 
 
