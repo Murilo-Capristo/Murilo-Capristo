@@ -33,10 +33,9 @@
 **Ferramentas de desenvolvimento**
 
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=data:image/svg+xml;base64,PD94bWwgdmVyc2lvbj0iMS4wIiBlbmNvZGluZz0idXRmLTgiPz48IS0tIFVwbG9hZGVkIHRvOiBTVkcgUmVwbywgd3d3LnN2Z3JlcG8uY29tLCBHZW5lcmF0b3I6IFNWRyBSZXBvIE1peGVyIFRvb2xzIC0tPgo8c3ZnIHdpZHRoPSI4MDBweCIgaGVpZ2h0PSI4MDBweCIgdmlld0JveD0iMCAwIDMyIDMyIiB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciPjx0aXRsZT5maWxlX3R5cGVfdnNjb2RlMjwvdGl0bGU+PHBhdGggZD0iTTExLjcyLDE4LjY4NSw0LjgzNywyMy44NjksMiwyMi45MjIsOSwxNiwyLDkuMDc3LDQuODM3LDguMTNsNi44ODMsNS4xODQsMTEuNDMzLTExLjNMMzAsNC45MjJWMjcuMDc3bC02Ljg0NywyLjkwOVpNMTUuMjg3LDE2bDcuODY1LDUuOTIzVjEwLjA3NloiIHN0eWxlPSJmaWxsOiMwMDdhY2MiLz48L3N2Zz4=&logoColor=007ACC)
-![Astah](https://img.shields.io/badge/-Astah-333333?style=flat&logo=astah-ide&logoColor=2C2255)
 ![Trello](https://img.shields.io/badge/-Trello-333333?style=flat&logo=trello&logoColor=007ACC)
 ![Figma](https://img.shields.io/badge/-Figma-333333?style=flat&logo=figma&logoColor=007ACC)
-![Intellij IDEA](https://img.shields.io/badge/-Intellij%20IDEA-333333?style=flat&logo=intellij-idea&logoColor=000000)
+![Intellij](https://img.shields.io/badge/-Intellij%20IDEA-333333?style=flat&logo=intellij-idea&logoColor=000000)
 
 <br/>
 
