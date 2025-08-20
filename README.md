@@ -46,6 +46,6 @@
 
 ## Onde me encontrar
 
-[![Linkedin](https://img.shields.io/badge/-Murilo%20Capristo-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/murilo-capristo-78809a306/)](https://www.linkedin.com/in/murilo-capristo-78809a306/)
+[![Linkedin](https://img.shields.io/badge/-Murilo%20Capristo-blue?style=flat-square&logo=https://svgstack.com/icon/linkedin-logo-icon-396&logoColor=white&link=https://www.linkedin.com/in/murilo-capristo-78809a306/)](https://www.linkedin.com/in/murilo-capristo-78809a306/)
 [![Gmail Badge](https://img.shields.io/badge/-murilocapristo@gmail.com-006bed?style=flat-square&logo=Gmail&logoColor=white&link=mailto:murilocapristo@gmail.com)](mailto:murilocapristo@gmail.com)
 [![GitHub](https://img.shields.io/github/followers/Murilo-Capristo?label=follow&style=social)](https://github.com/Murilo-Capristo)
