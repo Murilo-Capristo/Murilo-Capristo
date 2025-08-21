@@ -45,7 +45,10 @@
 
 #### Top Repositories
 
-<a href="https://github.com/Murilo-Capristo/metamancer"> <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Murilo-Capristo&repo=metamancer&theme=dracula&hide=HTML" /> </a>
+<br>
+<a href="https://github.com/Murilo-Capristo/metamancer"> 
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Murilo-Capristo&repo=metamancer&theme=dracula&hide=HTML" />
+</a>
 
 <a href="https://github.com/Murilo-Capristo/Analise-de-Salarios-na-Area-de-Dados">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Murilo-Capristo&repo=Analise-de-Salarios-na-Area-de-Dados&theme=dracula" />
