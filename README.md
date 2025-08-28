@@ -1,5 +1,11 @@
 ![](https://komarev.com/ghpvc/?username=Murilo-Capristo&color=006bed)
 
+<div align="center">
+
+![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira%20Code&size=24&pause=1000&color=f37efb&width=435&lines=Hi%2C%20I'm%20Murilo%20Capristo&center=true&vCenter=true&repeat=false)
+
+</div>
+
 ## Sobre mim
 
 - 🤔 Explorando novas tecnologias e desenvolvendo soluções de software.
