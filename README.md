@@ -50,7 +50,7 @@
 
 <br>
 <a href="https://github.com/Murilo-Capristo/epictask">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Murilo-Capristo&repo=epictask&theme=dracula" />
+<img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Murilo-Capristo&repo=epictask&theme=dracula&cache_seconds=1800" />
 </a>
 
 <a href="https://github.com/Murilo-Capristo/metamancer">
