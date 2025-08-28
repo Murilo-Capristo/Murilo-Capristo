@@ -46,6 +46,12 @@
 #### Top Repositories
 
 <br>
+<a href="https://github.com/Murilo-Capristo/epictask">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Murilo-Capristo&repo=epictask&theme=dracula" />
+</a>
+
+
+<br>
 <a href="https://github.com/Murilo-Capristo/metamancer">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Murilo-Capristo&repo=metamancer&theme=dracula" />
 </a>
