@@ -10,7 +10,7 @@
 
 - 🤔 Exploring new technologies and developing software solutions.  
 - 🎓 Studying ADS at FIAP.  
-- 💼 Currently available for Junior Full Stack Dev positions.
+- 💼 Currently available for Full Stack Dev positions.
 
 ## My Skills
 
